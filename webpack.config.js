@@ -24,4 +24,5 @@ module.exports = {
     filename: "bundle.js",
   },
   plugins: [new HtmlWebpackPlugin()],
+  mode: process.env.NODE_ENV === "production" ? "production" : "development",
 };
