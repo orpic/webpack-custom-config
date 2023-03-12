@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/orpic/webpack-custom-config#readme",
   "devDependencies": {
+    "css-loader": "^6.7.3",
+    "style-loader": "^3.3.1",
     "svg-inline-loader": "^0.8.2",
     "webpack": "^5.76.1",
     "webpack-cli": "^5.0.1"
