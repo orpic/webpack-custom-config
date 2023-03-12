@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/orpic/webpack-custom-config/issues"
   },
-  "homepage": "https://github.com/orpic/webpack-custom-config#readme"
+  "homepage": "https://github.com/orpic/webpack-custom-config#readme",
+  "devDependencies": {
+    "webpack": "^5.76.1",
+    "webpack-cli": "^5.0.1"
+  }
 }
